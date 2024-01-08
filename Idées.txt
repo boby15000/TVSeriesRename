@@ -5,5 +5,5 @@ TVSeriesRename|TVR Model => affiche le Modéle par défaut
 
 -------- PRINCIPE DE FONCTIONNEMENT --------
 --------------------------------------------
-TVR format list => affiche les formats vidéo autorisés ;
-TVR rename folder => renomme la/les séries contenu dans le dossier ;
+TVR:format list => affiche les formats vidéo autorisés ;
+TVR:rename folder => renomme la/les séries contenu dans le dossier ;
