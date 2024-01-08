@@ -6,6 +6,9 @@ namespace App\Services;
  * Class définissant les ressources Internet
  * Version 1.0
  */
+
+ namespace App\Services;
+
 class Internet
 {
 
